@@ -1,0 +1,11 @@
+{
+  "name": "ticket-tool",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^0.5.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
